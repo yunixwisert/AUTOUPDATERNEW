@@ -1,0 +1,2 @@
+# AUTOUPDATERNEW
+MyAutoUpdaterVersion
